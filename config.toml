@@ -1,4 +1,4 @@
-baseURL = "https://users.ox.ac.uk/~ball5909/adiwebsite/"
+baseURL = "https://users.ox.ac.uk/~ball5909/adiwebsite/public/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"

@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/posts/my-first-post/</loc>
+    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/public/posts/my-first-post/</loc>
     <lastmod>2021-11-05T10:31:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/</loc>
+    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/public/</loc>
     <lastmod>2021-11-05T10:31:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/posts/</loc>
+    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/public/posts/</loc>
     <lastmod>2021-11-05T10:31:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/categories/</loc>
+    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/public/categories/</loc>
   </url>
   
   <url>
-    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/tags/</loc>
+    <loc>https://users.ox.ac.uk/~ball5909/adiwebsite/public/tags/</loc>
   </url>
   
 </urlset>
